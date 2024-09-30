@@ -1,1 +1,1 @@
-A random person who knows Python, Golang and Rust.
+A random person who knows Python, Go and Rust.
