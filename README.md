@@ -1,1 +1,4 @@
-A random person who knows Python, Go and Rust.
+<!-- Container for the intro and images -->
+<h3 align="center">
+  <img src="https://github.com/user-attachments/assets/d4faa050-39d0-43e9-92d3-e685b9614eb5" alt="Image Description">
+</h3>
