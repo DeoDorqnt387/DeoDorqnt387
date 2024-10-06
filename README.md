@@ -8,3 +8,9 @@
     </td>
   </tr>
 </table>
+
+<h4 align="center">PLAYING: 残響散歌 (Zankyosanka) - Aimer // covered by 凪原涼菜</h4>
+<audio autoplay>
+    <source src="https://github.com/DeoDorqnt387/deodorqnt/blob/main/audio/zankyosanka.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
