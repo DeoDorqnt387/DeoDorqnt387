@@ -1,8 +1,8 @@
 <div align="center">
   <table style="width: 100%; border: none;">
     <tr>
+      <h2>👋 Hi, I'm DeoDorqnt387</h2>
       <td style="text-align: center; vertical-align: middle; padding: 20px;">
-        <h2>👋 Hi, I'm DeoDorqnt387</h2>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deodorqnt387&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=58a6ff&bg_color=0d1117" alt="Top Languages" />
       </td>
       <td style="text-align: center; vertical-align: middle; width: 200px; padding: 20px;">
