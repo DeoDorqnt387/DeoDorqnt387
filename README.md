@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   <table style="width: 100%; border: none;">
     <tr>
@@ -10,4 +11,13 @@
       </td>
     </tr>
   </table>
+</div>
+-->
+
+<div align="center">
+  <h2>👋 Hi, I'm DeoDorqnt387</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deodorqnt387&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=393053&bg_color=181420" alt="Top Languages" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/04f933a4-b89d-4c61-84a7-095458f53bf2" alt="Profile Image" style="width: 500px; height: auto; border-radius: 50px;">
 </div>
