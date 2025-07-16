@@ -15,7 +15,7 @@
 -->
 <div align="center">
   <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Manufacturing+Consent&size=30&duration=4000&pause=500&color=F70045&center=true&vCenter=true&width=500&lines=Humanity+has+Declined;I+ask+of+thee%2C+art+thou+mankind%3F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Manufacturing+Consent&size=40&duration=4000&pause=500&color=F70045&center=true&vCenter=true&width=600&lines=Humanity+has+Declined;The+Demise+of+the+True+Demon+King;I+ask+of+thee%2C+art+thou+mankind%3F" alt="Typing SVG" />
   </a>
 </div>
 <div align="center">
