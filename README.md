@@ -13,10 +13,12 @@
   </table>
 </div>
 -->
-
 <div align="center">
-  <h2>👋 Hi, I'm DeoDorqnt387</h2>
-  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Manufacturing+Consent&size=40&duration=5000&pause=500&color=F70045&center=true&vCenter=true&width=435&lines=Humanity+has+Declined;I+ask+of+thee%2C+art+thou+mankind?" alt="Typing SVG" />
+  </a>
+</div>
+<div align="center">
   <table cellpadding="0" cellspacing="0" border="0" style="border: none; border-collapse: collapse; margin: 0 auto;">
     <tr style="border: none;">
       <td style="border: none; padding: 0; text-align: center; vertical-align: middle;">
