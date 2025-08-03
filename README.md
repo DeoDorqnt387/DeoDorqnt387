@@ -13,20 +13,6 @@
   </table>
 </div>
 -->
-<div align="center">
-  <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Manufacturing+Consent&size=40&duration=4000&pause=500&color=F70045&center=true&vCenter=true&width=600&lines=Humanity+has+Declined;I+ask+of+thee%2C+art+thou+mankind%3F;The+Demise+of+the+True+Demon+King" alt="Typing SVG" />
-  </a>
-</div>
-<div align="center">
-  <table cellpadding="0" cellspacing="0" border="0" style="border: none; border-collapse: collapse; margin: 0 auto;">
-    <tr style="border: none;">
-      <td style="border: none; padding: 0; text-align: center; vertical-align: middle;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deodorqnt387&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=393053&bg_color=181420" alt="Top Languages" />
-      </td>
-      <td style="border: none; padding: 0 0 0 20px; text-align: center; vertical-align: middle;">
-        <img src="https://github.com/user-attachments/assets/04f933a4-b89d-4c61-84a7-095458f53bf2" alt="Profile Image" style="width: 500px; height: auto; border-radius: 50px;">
-      </td>
-    </tr>
-  </table>
-</div>
+
+<!-- What a s***** day to solve this s**** problem. -->
+<div align="center"> <a> <img src="https://readme-typing-svg.demolab.com?font=Manufacturing+Consent&size=40&duration=4000&pause=500&color=F70045&center=true&vCenter=true&width=600&lines=Humanity+has+Declined;I+ask+of+thee%2C+art+thou+mankind%3F;The+Demise+of+the+True+Demon+King" alt="Typing SVG" /> </a> </div> <div align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deodorqnt387&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=393053&bg_color=181420&langs_count=9" alt="Top Languages" style="margin-right: 30px;" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github.com/user-attachments/assets/04f933a4-b89d-4c61-84a7-095458f53bf2" alt="Profile Image" style="width: 500px; height: auto; border-radius: 50px; margin-left: 30px;"> </div> <br clear="both" />
