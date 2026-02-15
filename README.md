@@ -21,6 +21,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gleam_Lucy.svg/1200px-Gleam_Lucy.svg.png" alt="gleam" width="30" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="vuejs" width="30" height="30"/>
+  <img src="https://www.inkoop.io/static/3fd155c993893819981d0b9fa56b5057/b7804/logo.png" alt="nuxtjs" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/>
