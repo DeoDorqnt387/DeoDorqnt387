@@ -21,7 +21,7 @@ Caelo ipso etiam clamante, vexilla erigimus. <br />
 Victoriae nostrae confide; noli timere, noli cedere.<br />
 O quam mirabilis, quam serena, quam valida, quam pulchra est Euphoria.<br />
 <br />
-Hic Terrae Euphoriae vigent sub lumine aurorae.<br />
+Terrae Euphoriae vigent sub lumine aurorae.<br />
 Exercitus eius sicut tonitrua per campos incedunt. <br />
 Et nomen Lumielle in ventis portatur; sicut lex et corona. <br />
 Non cadimus. Non frangimur. Permanemus.<br />
