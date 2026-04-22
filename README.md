@@ -18,7 +18,7 @@
 Bene venisti ad patriam nostram.<br/>
 Dum nostrum carmen triumphale vento canitur, aquilae clamorem audimus. <br />
 Caelo ipso etiam clamante, vexilla erigimus. <br />
-Victoriae nostrae confide; noli timere, noli cedere.<br />
+Victoriae nostrae confidite; nolite timere, nolite cedere.<br />
 O quam mirabilis, quam serena, quam valida, quam pulchra est Euphoria.<br />
 <br />
 Terrae Euphoriae vigent sub lumine aurorae.<br />
