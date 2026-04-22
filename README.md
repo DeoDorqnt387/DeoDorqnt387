@@ -15,7 +15,7 @@
 -->
 
 
-Bene venisti ad patriam nostram.<br/>
+Bene advenisti ad patriam nostram.<br/>
 Dum nostrum carmen triumphale vento canitur, aquilae clamorem audimus. <br />
 Caelo ipso etiam clamante, vexilla erigimus. <br />
 Victoriae nostrae confidite; nolite timere, nolite cedere.<br />
