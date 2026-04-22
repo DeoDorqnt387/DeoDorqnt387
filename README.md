@@ -14,9 +14,17 @@
 </div>
 -->
 
-<!-- No comment. -->
 
+Bene venisti ad patriam nostram.<br/>
+Dum nostrum carmen triumphale vento canitur, aquilae clamorem audimus. <br />
+Caelo ipso etiam clamante, vexilla erigimus. <br />
+Victoriae nostrae confide; noli timere, noli cedere.<br />
+O quam mirabilis, quam serena, quam valida, quam pulchra est Euphoria.<br />
+
+<!-- No comment. -->
+<!--
 <div align="center"> <a> <img src="https://readme-typing-svg.demolab.com?font=Manufacturing+Consent&size=40&duration=4000&pause=500&color=F70045&center=true&vCenter=true&width=600&lines=Humanity+has+Declined;I+ask+of+thee%2C+art+thou+mankind%3F;The+Demise+of+the+True+Demon+King;Agricola+servum+necavit" alt="Typing SVG" /> </a> </div> &nbsp; <div align="center">&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github.com/user-attachments/assets/04f933a4-b89d-4c61-84a7-095458f53bf2" alt="Profile Image" style="width: 500px; height: auto; border-radius: 50px; margin-left: 30px;"> </div> <br clear="both" />
+-->
 <!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
