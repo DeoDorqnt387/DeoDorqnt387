@@ -20,6 +20,12 @@ Dum nostrum carmen triumphale vento canitur, aquilae clamorem audimus. <br />
 Caelo ipso etiam clamante, vexilla erigimus. <br />
 Victoriae nostrae confide; noli timere, noli cedere.<br />
 O quam mirabilis, quam serena, quam valida, quam pulchra est Euphoria.<br />
+<br />
+Hic Terrae Euphoriae vigent sub lumine aurorae.<br />
+Exercitus eius sicut tonitrua per campos incedunt. <br />
+Et nomen Lumine in ventis portatur; sicut lex et corona. <br />
+Non cadimus. Non frangimur. Permanemus.<br />
+Euphoria, aeterna patria.<br />
 
 <!-- No comment. -->
 <!--
