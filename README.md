@@ -16,7 +16,7 @@
 
 
 Bene advenisti ad patriam nostram.<br/>
-Dum nostrum carmen triumphale vento canitur, aquilae clamorem audimus. <br />
+Dum nostrum carmen triumphale in vento canitur, aquilae clamorem audimus. <br />
 Caelo ipso etiam clamante, vexilla erigimus. <br />
 Victoriae nostrae confidite; nolite timere, nolite cedere.<br />
 O quam mirabilis, quam serena, quam valida, quam pulchra est Euphoria.<br />
