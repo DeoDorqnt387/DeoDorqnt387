@@ -14,7 +14,7 @@
 </div>
 -->
 
-
+<!--
 Bene advenisti ad patriam nostram.<br/>
 Dum nostrum carmen triumphale in vento canitur, aquilae clamorem audimus. <br />
 Caelo ipso etiam clamante, vexilla erigimus. <br />
@@ -26,6 +26,9 @@ Exercitus eius sicut tonitrua per campos incedunt. <br />
 Et nomen Lumielle cum vento portatur; sicut lex et corona. <br />
 Non cadimus. Non frangimur. Permanemus.<br />
 Euphoria, aeterna patria.<br />
+-->
+
+Ríðum, ríðum, rekum yfir sandinn rökkrið er að síga á Herðubreid álfadrottning er að beisla gandinn ekki er gott að verða á hennar leið
 
 <!-- No comment. -->
 <!--
