@@ -28,7 +28,7 @@ Non cadimus. Non frangimur. Permanemus.<br />
 Euphoria, aeterna patria.<br />
 -->
 
-Ríðum, ríðum, rekum yfir sandinn rökkrið er að síga á Herðubreid álfadrottning er að beisla gandinn ekki er gott að verða á hennar leið
+Ríðum, ríðum, rekum yfir sandinn; rökkrið er að síga á Herðubreid; álfadrottning er að beisla gandinn ekki er gott að verða á hennar leið.
 
 <!-- No comment. -->
 <!--
